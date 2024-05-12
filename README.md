@@ -2,7 +2,7 @@
 
 [![AFlyingSheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFlyingSheep&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFlyingSheep&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Keep+coding%2C+keep+thinking...;Have+a+good+day!" alt="Typing SVG" /></a>
 <!--
 **AFlyingSheep/AFlyingSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
